@@ -1,0 +1,17 @@
+//  http://campus.codeschool.com/courses/cracking-the-case-with-flexbox/level/1/section/1/creating-inline-flex-containers
+
+.promo {
+  border: 1px solid #e5e5e5;
+
+  max-width: 280px;
+  min-height: 350px;
+  padding: 20px;
+}
+
+.promo-title {
+  margin: 0;
+}
+
+.promo-description {
+  margin-top: 8px;
+}
