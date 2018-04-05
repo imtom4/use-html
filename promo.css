@@ -2,7 +2,7 @@
 
 .promo {
   border: 1px solid #e5e5e5;
-
+  display: inline-flex; 
   max-width: 280px;
   min-height: 350px;
   padding: 20px;
