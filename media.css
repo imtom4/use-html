@@ -8,7 +8,7 @@
 }
 
 .media-meta {
-  
+  display: flex;
   margin-top: 20px;
 }
 
