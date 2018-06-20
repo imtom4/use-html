@@ -3,3 +3,4 @@
 
 [Хауди Хо™ - Просто о мире IT!](https://www.youtube.com/channel/UC7f5bVxWsm3jlZIPDzOMcAg) - ruslang 
 - ► Из HTML в WordPress за 10 минут!  https://www.youtube.com/watch?v=HirVxvZp2tw  9" 
+- https://www.youtube.com/watch?v=xGNqxcgikGk  13"  Как стать Front-End разработчиком? ► Самый Верный Путь! 
